@@ -11,6 +11,7 @@
 		626731F022DF7BE90031C145 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 626731EE22DF7BE90031C145 /* Main.storyboard */; };
 		626731F222DF7BEA0031C145 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 626731F122DF7BEA0031C145 /* Assets.xcassets */; };
 		626731F522DF7BEA0031C145 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 626731F322DF7BEA0031C145 /* LaunchScreen.storyboard */; };
+		FB863C5222DF7E7B00D73F3C /* Karl added.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB863C5122DF7E7B00D73F3C /* Karl added.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		626731F122DF7BEA0031C145 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		626731F422DF7BEA0031C145 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		626731F622DF7BEA0031C145 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB863C5122DF7E7B00D73F3C /* Karl added.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Karl added.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -36,6 +38,7 @@
 		626731DE22DF7BE90031C145 = {
 			isa = PBXGroup;
 			children = (
+				FB863C5122DF7E7B00D73F3C /* Karl added.swift */,
 				626731E922DF7BE90031C145 /* JournalButCooler */,
 				626731E822DF7BE90031C145 /* Products */,
 			);
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				626731EB22DF7BE90031C145 /* AppDelegate.swift in Sources */,
+				FB863C5222DF7E7B00D73F3C /* Karl added.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
